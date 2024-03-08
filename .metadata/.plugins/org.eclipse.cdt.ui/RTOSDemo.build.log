@@ -1,0 +1,7 @@
+08:35:43 **** Clean-only build of configuration Debug for project RTOSDemo ****
+make -r clean 
+rm -rf  ./Source/FreeRTOS_Source/portable/MemMang/heap_1.o  ./Source/FreeRTOS_Source/portable/GCC/ARM_CM0/port.o  ./Source/FreeRTOS_Source/list.o ./Source/FreeRTOS_Source/queue.o ./Source/FreeRTOS_Source/tasks.o ./Source/FreeRTOS_Source/timers.o  ./Source/Common_Demo_Tasks/IntQueue.o ./Source/Common_Demo_Tasks/blocktim.o ./Source/Common_Demo_Tasks/countsem.o ./Source/Common_Demo_Tasks/recmutex.o  ./Source/IntQueueTimer.o ./Source/RegTest.o ./Source/cr_startup_lpc11.o ./Source/main-blinky.o ./Source/main-full.o ./Source/main.o  ./Source/FreeRTOS_Source/portable/MemMang/heap_1.d  ./Source/FreeRTOS_Source/portable/GCC/ARM_CM0/port.d  ./Source/FreeRTOS_Source/list.d ./Source/FreeRTOS_Source/queue.d ./Source/FreeRTOS_Source/tasks.d ./Source/FreeRTOS_Source/timers.d  ./Source/Common_Demo_Tasks/IntQueue.d ./Source/Common_Demo_Tasks/blocktim.d ./Source/Common_Demo_Tasks/countsem.d ./Source/Common_Demo_Tasks/recmutex.d  ./Source/IntQueueTimer.d ./Source/RegTest.d ./Source/cr_startup_lpc11.d ./Source/main-blinky.d ./Source/main-full.d ./Source/main.d  RTOSDemo.axf
+ 
+
+08:35:45 Build Finished (took 1s.667ms)
+
